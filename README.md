@@ -1,4 +1,4 @@
-# Power-outage-prediction-competition
+# Power-outage-prediction-competition (Copy)
 ![image](https://github.com/Tang-Li-Jen/Power-outage-prediction-competition/blob/master/images/power_outage_wallpaper.PNG)
 The competition was held by **DSP** and **Taipower** in Taiwan. I teamed up with **Lawrencesiao**. He is my best teammate and mentor in data science. He helped me do feature engineering and fine-tune predictive model to reach the top rank. If you have any interest, you can see his github here(https://github.com/lawrencesiao)
 ## Problem Statement
